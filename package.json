@@ -18,7 +18,7 @@
     "sinon": "^1.15.4"
   },
   "devDependencies": {
-    "aws-sdk": "^2.1.45",
+    "aws-sdk": "^2.7.15",
     "mocha": "^2.2.5",
     "should": "^7.0.2"
   },
